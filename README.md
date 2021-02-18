@@ -1,5 +1,6 @@
 # python-interactive-program
 #python interactive program for star pattern
+
 print("enter q to quit the program\n")
 program_over = False
 while program_over is False:
